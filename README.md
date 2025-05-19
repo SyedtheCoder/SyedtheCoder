@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Shamoon — aka **SyedtheCoder**
 
-<!--
-**SyedtheCoder/SyedtheCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I'm a beginner web developer who loves creating cool and useful stuff on the web.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning:
+- 🔸 HTML  
+- 🔹 CSS  
+- 🟨 JavaScript  
+
+---
+
+## 🔨 Projects I'm Working On:
+- 🍔 Multi-Restaurant Ordering App  
+- 🏆 Sports Info Website  
+- ♟ Chess Practice Page
+
+---
+
+## 📬 Contact Me:
+- 📧 **Email 1**: syedshamoonali1@gmail.com  
+- 📧 **Email 2**: shamoonali218@gmail.com  
+
+---
+
+## ❤️ Interests:
+- 🇵🇸 Supporting Palestine  
+- 🎨 UI Design & Clean Layouts  
+- 📘 Learning Web Development from SMIT (Saylani Mass IT Training)
+
+---
+
+Thanks for checking out my profile! 🙌  
+**Stay connected. Stay coding.**
